@@ -13,14 +13,10 @@ the output will be
 *****
 *****
 
+Thank You
+
 
 */
-
-
-
-
-
-
 
 
 
