@@ -11,12 +11,7 @@ int main(){
     int a;
     cout<<"What is you age?"<<endl;
 
-    
-    
-
-   if(cin>>a){
-
-     
+    cin>>a;
     if(a>=18){
         cout<<"You are an adult!!";
 
@@ -27,9 +22,7 @@ int main(){
 
        }
 
-   }
-
-   else{
+    else{
         cout<<"wrong input";
 
     }
