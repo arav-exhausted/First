@@ -1,4 +1,4 @@
-# First 😎
+# Random 😎
 
 ## About Me
 I'm Arav Prajapat, a first-year B.Tech student interested in Computer Science—especially Artificial Intelligence and Machine Learning.
